@@ -7,8 +7,7 @@ body {
 header {
     color: white;
     text-align: center;
-    width: auto;
-    height: auto;
+    
 }
 section {
     background: white;
@@ -17,13 +16,10 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: rgba(0, 0, 0, 0.605);
-    width: auto;
-    height: auto;
+    
 }
 footer {
     color: white;
     text-align: center;
     font-style: italic;
-    width: auto;
-    height: auto;
 }
